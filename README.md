@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AustinHill01
+- 👀 I’m interested in poetry, art, and learning to code
+- 🌱 I’m currently learning more react
+- 💞️ I’m looking to collaborate on business projects
+- 📫 How to reach me => austinhill008@gmail.com
